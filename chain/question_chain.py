@@ -3,6 +3,7 @@ from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.messages import HumanMessage, AIMessage
 from utils.vector_store import create_vector_store
+from config import api_key
 
 # Store conversation history
 chat_history = []
