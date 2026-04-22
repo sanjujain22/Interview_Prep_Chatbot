@@ -10,3 +10,4 @@ env/
 *.pyc
 *.pyo
 *.pyd
+data/
