@@ -1,0 +1,12 @@
+.env
+*.env
+venv
+env/
+.venv/
+.streamlit/
+*.log
+.vscode
+*.__pycache__/
+*.pyc
+*.pyo
+*.pyd
